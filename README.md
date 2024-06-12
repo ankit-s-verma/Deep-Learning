@@ -8,8 +8,8 @@ Data Augmentation: Enhance the training dataset with various data augmentation t
 Training and Evaluation: Comprehensive scripts for training models, evaluating performance, and visualizing results.
 Customizable Pipeline: Easily modify and extend the project to fit different datasets and classification tasks.
 
-**Models**
-  VGG16 
+**Models**<br>
+  VGG16<br>
   CNN  
   FC  
   YOLOv8  
