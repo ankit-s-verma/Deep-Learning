@@ -16,7 +16,9 @@ Customizable Pipeline: Easily modify and extend the project to fit different dat
   DETR<br>
 
 **Getting Started**
+
 Prerequisites
+
   Python 3.8 or higher  
   TensorFlow 2.x  
   Keras  
