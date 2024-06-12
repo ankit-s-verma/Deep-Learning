@@ -25,4 +25,4 @@ Customizable Pipeline: Easily modify and extend the project to fit different dat
 
 Clone the Repository
 
-git clone https://github.com/ankit.s.verma/deep-learning.git
+git clone https://github.com/ankit.s.verma/Deep-Learning.git
