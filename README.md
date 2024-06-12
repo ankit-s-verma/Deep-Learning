@@ -13,7 +13,7 @@ Customizable Pipeline: Easily modify and extend the project to fit different dat
   CNN  
   FC  
   YOLOv8  
-  DETR<\br>
+  DETR<br>
 
 **Getting Started**
 Prerequisites
