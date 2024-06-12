@@ -9,19 +9,28 @@ Training and Evaluation: Comprehensive scripts for training models, evaluating p
 Customizable Pipeline: Easily modify and extend the project to fit different datasets and classification tasks.
 
 **Models**
-  VGG16/n
+  VGG16
+  
   CNN
+  
   FC
+  
   YOLOv8
+  
   DETR
 
 **Getting Started**
 Prerequisites
   Python 3.8 or higher
+  
   TensorFlow 2.x
+  
   Keras
+  
   NumPy
+  
   Pandas
+  
   Matplotlib
 
 Clone the Repository
