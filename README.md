@@ -9,14 +9,10 @@ Training and Evaluation: Comprehensive scripts for training models, evaluating p
 Customizable Pipeline: Easily modify and extend the project to fit different datasets and classification tasks.
 
 **Models**
-  VGG16
-  
-  CNN
-  
-  FC
-  
-  YOLOv8
-  
+  VGG16<br> 
+  CNN  
+  FC  
+  YOLOv8  
   DETR
 
 **Getting Started**
