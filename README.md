@@ -15,7 +15,7 @@ Customizable Pipeline: Easily modify and extend the project to fit different dat
   YOLOv8  
   DETR<br>
 
-**Prerequisites**
+**Prerequisites**<br>
   Python 3.8 or higher  
   TensorFlow 2.x  
   Keras  
