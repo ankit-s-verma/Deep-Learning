@@ -17,16 +17,11 @@ Customizable Pipeline: Easily modify and extend the project to fit different dat
 
 **Getting Started**
 Prerequisites
-  Python 3.8 or higher
-  
-  TensorFlow 2.x
-  
-  Keras
-  
-  NumPy
-  
-  Pandas
-  
+  Python 3.8 or higher  
+  TensorFlow 2.x  
+  Keras  
+  NumPy  
+  Pandas  
   Matplotlib
 
 Clone the Repository
